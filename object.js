@@ -3,8 +3,11 @@
  * Represents a people.
  * @constructor
  * @param {string} name - The title of the book.
+ * value of {@link name} de deve ser uma blabla
+ *
  * @param {string} email - The author of the book.
  * @param {string} tel - The author of the book.
+
  * @param {string} age - The author of the book.
  *
  */
